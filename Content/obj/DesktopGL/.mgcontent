@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/1.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/1_Splash_Screen_No_Buttons.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/2_Menu_No_Buttons.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/3_Options_No_Buttons.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/4_New_Game_No_Buttons.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/5_Rules_No_Buttons.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/6_Gameplay_No_Buttons.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/7_Result_No_Buttons.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/1_New_Game.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/1_New_Game_Hover.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/1_Single_Player.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/2_Options.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/2_Options_Hover.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/2_Two_Players.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/3_Back.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/3_Exit.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/3_Exit_Hover.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/b_Back_Hover.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/b_MultiplayerMode_Hover.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Buttons/b_SingleplayerMode_Hover.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/pressR.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/s_Ball.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/s_Bat_L.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/s_Bat_R.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/ScoreNoBG.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/0.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/1.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/10.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/2.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/3.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/4.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/5.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/6.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/7.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/8.png</File>
+    <File>C:/Users/artem/source/repos/MadPongMonoGame/Content/Scores/9.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>i_GridLine.png</File>
+    <File>i_SplashScreen.png</File>
+    <File>i_MenuScreen.png</File>
+    <File xsi:nil="true" />
+    <File>i_NewGameScreen.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Buttons/b_NewGame.png</File>
+    <File>Buttons/b_NewGame_Hover.png</File>
+    <File>Buttons/b_SingleplayerMode.png</File>
+    <File>Buttons/b_Options.png</File>
+    <File>Buttons/b_Options_Hover.png</File>
+    <File>Buttons/b_MultiplayerMode.png</File>
+    <File>Buttons/b_Back.png</File>
+    <File>Buttons/b_Exit.png</File>
+    <File>Buttons/b_Exit_Hover.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>s_Scores.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
